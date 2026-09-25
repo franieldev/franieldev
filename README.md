@@ -39,17 +39,15 @@ My job is to simplify the complex: I transform your vision into a unique, functi
 
 ---
 
-### 📊 Estadísticas de GitHub / GitHub Stats
-
 <div align="center">
+<pre>
+███████╗ ██████╗  █████╗  ███╗   ██╗ ██╗ ███████╗ ██╗      ██████╗  ███████╗ ██╗   ██╗
+██╔════╝ ██╔══██╗ ██╔══██╗ ████╗  ██║ ██║ ██╔════╝ ██║      ██╔══██╗ ██╔════╝ ██║   ██║
+█████╗   ██████╔╝ ███████║ ██╔██╗ ██║ ██║ █████╗   ██║      ██║  ██║ █████╗   ██║   ██║
+██╔══╝   ██╔══██╗ ██╔══██║ ██║╚██╗██║ ██║ ██╔══╝   ██║      ██║  ██║ ██╔══╝   ╚██╗ ██╔╝
+██║      ██║  ██║ ██║  ██║ ██║ ╚████║ ██║ ███████╗ ███████╗ ██████╔╝ ███████╗  ╚████╔╝ 
+╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝ ╚══════╝ ╚══════╝ ╚═════╝  ╚══════╝   ╚═══╝  
+</pre>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=franieldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franieldev&layout=compact&theme=tokyonight&hide=html,css"/>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Desarrollado con pasión por <a href="https://franieldev.com">Franiel</a> 🚀</sub>
+<sub>Desarrollado con pasión por <a href="https://franieldev.com">Franiel</a> 🚀</sub>
 </div>
